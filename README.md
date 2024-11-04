@@ -39,7 +39,7 @@ This project is a comprehensive web application built using Django REST Framewor
 
 ## Project Structure
 
-\`\`\`plaintext
+```
 multi_user_drf_react-main/
 │
 ├── backend/                                 # Backend root directory
@@ -88,7 +88,7 @@ multi_user_drf_react-main/
 │
 ├── main.py                                  # Main application script or utility file
 └── docker-compose.yml                       # Docker Compose configuration for deployment
-\`\`\`
+```
 
 ## Installation
 
