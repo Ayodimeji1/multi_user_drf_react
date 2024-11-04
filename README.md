@@ -18,8 +18,6 @@ This project is a comprehensive web application built using Django REST Framewor
 - [Configuration](#configuration)
 - [Deployment](#deployment)
 - [Development Workflow](#development-workflow)
-- [Troubleshooting](#troubleshooting)
-- [Contributors](#contributors)
 - [License](#license)
 
 ## Features
